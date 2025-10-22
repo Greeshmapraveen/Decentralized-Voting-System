@@ -1,6 +1,6 @@
 ### Decentralized-Voting-System
 ##Decentralized voting system using Blockchain and Python
-#👩‍💻 Project Overview
+👩‍💻 Project Overview
 
 This project simulates a secure and transparent decentralized voting system using Python and Blockchain principles.
 It ensures vote integrity, immutability, and transparency by recording every vote as a separate block in a simulated blockchain.
