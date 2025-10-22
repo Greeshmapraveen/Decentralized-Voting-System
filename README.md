@@ -116,9 +116,9 @@ Using **Matplotlib** and **Seaborn** for results visualization:
 | Name | Role | Responsibility |
 |------|------|----------------|
 | **Harshitha Uppalapadu** | Python Developer | Blockchain logic & accuracy testing |
-| **Greeshma** | Python Developer | Data preprocessing & visualization |
-| **Emmanuel** | Web Developer | Frontend dashboard integration |
-| **Jakker** | App Developer | Deployment & UI simulation |
+| **Greeshma** | Python Developer | Deployment & UI simulation |
+| **Emmanuel** | Python Developer | Frontend dashboard integration |
+| **Jakker** | Python Developer | Data preprocessing & visualization |
 
 ---
 
