@@ -1,1 +1,16 @@
+graphs/
+ ├── plot1.py
+ ├── plot2.py
+ ├── plot3.py
+ ├── plot4.py
+ ├── plot1.png
+ ├── plot2.png
+ ├── plot3.png
+ └── plot4.png
+
+
+tables/
+├── table1.py
+└── table1.png
+
 
