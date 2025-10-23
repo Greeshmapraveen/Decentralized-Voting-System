@@ -89,28 +89,28 @@ Using **Matplotlib**, **Seaborn**, and **NetworkX**, generated insights:
 ### 1️⃣ Party-wise Vote Distribution
 Displays top parties by total votes.
 
-![Party Votes Graph](graphs/VotingRecordingAccuarcy.png)
+
 
 ---
 
 ### 2️⃣ Gender Representation per Constituency
 Stacked bar chart comparing total votes of male vs female candidates.
 
-![Gender Graph](VotesByCandidateGenderInEachConstituency.png)
+
 
 ---
 
 ### 3️⃣ Year-wise Highest Electors per Party
 Shows the year in which each party had the highest number of electors.
 
-![Yearly Electors Graph](graphs/year_party_electors.png)
+
 
 ---
 
 ### 4️⃣ Blockchain Chain Visualization
 Network graph displaying links between the last N blocks.
 
-![Blockchain Structure](graphs/blockchain_chain.png)
+
 
 ---
 
@@ -182,17 +182,7 @@ It ensures **trust, accountability, and efficiency**, providing a foundation for
 
 ---
 
-## ✅ Project Folder Structure
-📁 Decentralized-Voting-System/
-├── main_voting_system.ipynb
-├── indian-national-level-election.csv
-├── requirements.txt
-├── README.md
-└── /graphs/
-├── party_votes.png
-├── gender_by_constituency.png
-├── year_party_electors.png
-└── blockchain_chain.png
+
 
 **requirements.txt**
 
