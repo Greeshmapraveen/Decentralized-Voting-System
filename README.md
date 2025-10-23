@@ -96,7 +96,7 @@ Displays top parties by total votes.
 ### 2️⃣ Gender Representation per Constituency
 Stacked bar chart comparing total votes of male vs female candidates.
 
-![Gender Graph](graphs/gender_by_constituency.png)
+![Gender Graph](VotesByCandidateGenderInEachConstituency.png)
 
 ---
 
