@@ -89,7 +89,7 @@ Using **Matplotlib**, **Seaborn**, and **NetworkX**, generated insights:
 ### 1️⃣ Party-wise Vote Distribution
 Displays top parties by total votes.
 
-![Party Votes Graph](graphs/party_votes.png)
+![Party Votes Graph](graphs/VotingRecordingAccuarcy.png)
 
 ---
 
@@ -195,9 +195,13 @@ It ensures **trust, accountability, and efficiency**, providing a foundation for
 └── blockchain_chain.png
 
 **requirements.txt**
+
 pandas
+
 matplotlib
+
 seaborn
+
 networkx
 
 
