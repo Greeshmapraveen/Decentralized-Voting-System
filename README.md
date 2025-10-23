@@ -179,7 +179,6 @@ It ensures **trust, accountability, and efficiency**, providing a foundation for
 
 ---
 
-> 📧 Contact: **harshithauppalapadu@gmail.com**
 
 ---
 
